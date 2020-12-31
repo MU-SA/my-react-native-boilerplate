@@ -1,0 +1,7 @@
+export const PrimaryRegular = 'Inter-Regular'
+export const PrimaryMedium = 'Inter-Medium'
+export const PrimarySemiBold = 'Inter-SemiBold'
+export const PrimaryBold = 'Inter-Bold'
+export const PrimaryBlack = 'Inter-Black'
+export const SecondaryRegular = 'Lobster-Regular'
+export const TernaryRegular = 'Pacifico-Regular'

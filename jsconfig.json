@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      //      "App/*": ["./App/*"],
+      "Theme*": ["./App/Theme"],
+      "Navigation*": ["./App/Navigation/*"],
+      "Actions*": ["./App/Actions/*"],
+      "Components*": ["./App/Components*"],
+      "Selectors*": ["./App/Selectors/*"],
+      "Blocks*": ["./App/Components/Blocks*"],
+      "Headers*": ["./App/Headers/*"],
+      "UI*": ["./App/Components/UI*"],
+      "Config*": ["./App/Config/*"],
+      "Constants*": ["./App/Constants/*"],
+      "Services*": ["./App/Services/*"],
+      "Strings*": ["./App/Strings*"],
+      "Lib*": ["./App/Lib/*"]
+    }
+  },
+  "exclude": ["node_modules"]
+}
